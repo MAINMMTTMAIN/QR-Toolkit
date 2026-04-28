@@ -16,7 +16,6 @@ QR Toolkit is a modern and powerful desktop application for generating and scann
 📸 Screenshots
 
 Main Menu Generate QR Scan QR
-(تصویر منوی اصلی) (تصویر صفحه ساخت QR) (تصویر صفحه اسکن QR)
 
 🚀 Getting Started
 
