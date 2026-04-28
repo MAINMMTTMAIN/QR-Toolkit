@@ -1,0 +1,9 @@
+customtkinter
+tkinter
+qrcode
+numpy
+pyzbar
+pillow
+threading
+webbrowser
+opencv-python
