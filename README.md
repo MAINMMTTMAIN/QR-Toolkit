@@ -1,8 +1,8 @@
 ✨ QR Toolkit: Your All-in-One QR Code Solution
+markdown
+![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
 
-https://img.shields.io/badge/python-3.8+-blue.svg
-https://img.shields.io/badge/license-MIT-green.svg
-https://img.shields.io/badge/platform-windows%20%7C%20linux-lightgrey
 
 QR Toolkit is a modern and powerful desktop application for generating and scanning QR codes. With a clean, responsive user interface built using CustomTkinter, it offers a seamless experience whether you're creating QR codes from text or scanning them from your camera or gallery.
 
