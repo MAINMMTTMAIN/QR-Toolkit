@@ -14,7 +14,9 @@ QR Toolkit is a modern and powerful desktop application for generating and scann
 · 💎 Modern & Responsive UI – A sleek, dark-themed interface that adapts to any window size.
 
 📸 Screenshots
-
+<p align="center">
+  <img src="screenshots/mock18.png" width="800">
+</p>
 Main Menu Generate QR Scan QR
 
 🚀 Getting Started
