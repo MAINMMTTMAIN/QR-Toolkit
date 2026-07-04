@@ -13,7 +13,7 @@ QR Toolkit is a modern and powerful desktop application for generating and scann
 · 🔗 Smart URL Detection – Detected URLs are automatically opened in your default web browser upon request.
 · 💎 Modern & Responsive UI – A sleek, dark-themed interface that adapts to any window size.
 
-## 📸 Screenshots
+## 📸 App Preview
 <p align="center">
   <img src="screenshots/mock18.png" width="800">
 </p>
